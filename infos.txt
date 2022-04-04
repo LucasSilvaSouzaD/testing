@@ -1,1 +1,1 @@
-FS - node native module, it provides methods for working with files.
+fiel system module - o módulo FS disponibiliza diversas funcionalidades para trabalharmos com arquivos (CRUD) .
