@@ -1,1 +1,1 @@
-fiel system module - o módulo FS disponibiliza diversas funcionalidades para trabalharmos com arquivos (CRUD) .
+fiel system module - o módulo FS disponibiliza diversas funcionalidades para trabalharmos com arquivos (CRUD)
