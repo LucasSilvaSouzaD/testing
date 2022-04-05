@@ -11,4 +11,6 @@ nessa requisição vamos precisar do seguinte objeto:
 }
 para testarmos só precisamos criar um objeto fake baseado nesse real... 
 
+Stubs - podemos usar para validar o resultado
+
 fiel system module - o módulo FS disponibiliza diversas funcionalidades para trabalharmos com arquivos (CRUD)
