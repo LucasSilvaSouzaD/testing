@@ -3,7 +3,7 @@ Mocks, Stubs, Spies, end-to-end e Code Coverage, TDD e BDD
 
 Mocks
 
-    Com o Mock podemos transformar simular métodos reais, ainda assim entregando o resultado
+    Com o Mock podemos simular métodos reais, ainda assim entregando o resultado
     conforme a regra.
 
     "podemos usar uma maquina de refrigerantes, para comprar você precisa colocar o dinheiro e apertar alguns botões,
