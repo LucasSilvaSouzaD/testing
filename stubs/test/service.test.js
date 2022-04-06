@@ -21,6 +21,7 @@ const mocks = {
     const service = new Service()
     const sub = sinon.stub(service, service.makeRequest.name)
 
+    // assim que a função for chamada pelo args passado o mesmo vai retornar o resolve que é um dado mockado.
     sub
         .withArgs(BASE_URL_1)
         .resolves(mocks.tatooine)
