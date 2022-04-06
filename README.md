@@ -16,5 +16,6 @@ Stubs
 
 Spies
 
+    o famoso espião, pode-nos retornar informações úteis sobre, o que executamos, quantas vezes executou, parametro passado...
 
 fiel system module - o módulo FS disponibiliza diversas funcionalidades para trabalharmos com arquivos (CRUD)
