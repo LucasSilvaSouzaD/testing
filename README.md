@@ -1,7 +1,7 @@
 # testing
 Mocks, Stubs, Spies, end-to-end e Code Coverage, TDD e BDD
 
-Mocks - com o Mock podemos transformar métodos reais em fakes, mas ainda assim entregando o resultado
+Mocks - com o Mock podemos transformar simular métodos reais, ainda assim entregando o resultado
 conforme a regra.
 
     "podemos usar uma maquina de refrigerantes, para comprar você precisa colocar o dinheiro e apertar alguns botões,
