@@ -7,7 +7,7 @@ const routes = {
         return response.end()
     },
     default: (request, response) => {
-        response.write('Hello Word')
+        response.write('Hello World')
         return response.end()
     }
 }
